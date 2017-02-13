@@ -33,5 +33,7 @@ Unordered List
 - List item
 
 To simply copy a repo run 
+
 git clone (copied repo loaction)
+
 git clone https://github.com/milesgwood/gitcourse.git
